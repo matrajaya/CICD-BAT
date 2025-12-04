@@ -1,6 +1,3 @@
-Siap! Berikut **README.md lengkap**, khusus untuk script `.bat` yang kamu berikan.
-Tinggal copy–paste ke GitHub — sudah rapi, jelas, dan profesional.
-
 ---
 
 # 🚀 **CI/CD Deployment Script for IIS (Windows Server)**
@@ -221,5 +218,3 @@ cicd.bat
 * App Pool harus sudah dibuat di IIS.
 
 ---
-
-Kalau kamu mau, saya bisa otomatis **generate versi PDF**, **DOCX**, atau membuatkan **diagram flow CI/CD** untuk README ini.
